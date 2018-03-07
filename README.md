@@ -1,6 +1,6 @@
-# Machine Learning Internship Challenge
+# Dressopedia - Deep Learning App
 
-Following is my Submission Repo for the Machine Learning Internship Challenge by Fynd
+Following is my Repo for the Deep Learning App for dress classification
 
 ## Approach
 
